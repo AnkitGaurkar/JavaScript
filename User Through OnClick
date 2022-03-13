@@ -1,0 +1,13 @@
+# JavaScript
+
+<script type="text/javascript">
+	function sayHello()
+	{
+		var user=document.forms[0]["user"].value;
+		alert("hello " +user);
+	}
+	</script>
+	<form>
+	user:<input type="text" name="user">
+	<input type="submit" value="Click" onclick="sayHello()">
+	</form>
