@@ -1,0 +1,15 @@
+# JavaScript
+
+<script type="text/javascript">
+	function sayHello()
+	{
+		alert("hello");
+	}
+	
+	</script>
+	<form>
+	<input type="submit" value="Click" onclick=sayHello()>
+	</form>
+	
+	
+	
