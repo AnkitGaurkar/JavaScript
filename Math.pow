@@ -1,0 +1,16 @@
+# JavaScript
+
+<script type="text/javascript">
+function calcPow()
+{
+var b=4;
+var c=5;
+var p=Math.pow(b,c);
+
+alert(c+"th power of " +b+ " is="+p);
+}
+</script>
+<script>
+calcPow();
+</script>
+
