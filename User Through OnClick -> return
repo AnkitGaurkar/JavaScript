@@ -1,0 +1,21 @@
+# JavaScript<script type="text/javascript">
+	function sayHello()
+	{
+		var user=document.forms[0]["user"].value;
+		if(user=="")
+			{
+			alert("plz enter username");
+			return false;
+			}
+		else
+			{
+			alert("hello "+user);
+			return true;
+			}
+	}
+	</script>
+	<form>
+	user:<input type="text" name="user">
+	<input type="submit" value="Click" onclick="return sayHello()">
+	</form>
+
