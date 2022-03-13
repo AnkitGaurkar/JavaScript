@@ -1,0 +1,15 @@
+# JavaScript
+<script type="text/javascript">
+function dispDate()
+{
+var d=new Date();
+
+alert(d);
+
+}
+</script>
+<script>
+dispDate();
+</script>
+
+
