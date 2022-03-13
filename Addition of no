@@ -1,0 +1,7 @@
+<script type="text/javascript">
+var a=23;
+var b=45;
+var c=a+b;
+
+alert("addition of "+a+"and"+b+ "is ="+c);
+</script>
