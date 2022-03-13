@@ -1,0 +1,8 @@
+# JavaScript
+
+<script type="text/javascript">
+var str="Ankit";
+alert(str);
+var l=str.length;
+alert("length of "+str+"is ="+l);
+</script>
